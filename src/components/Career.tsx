@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My Education <span>&</span>
+          <br /> Background
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,42 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>B.Tech in AI & Machine Learning</h4>
+                <h5>TGPCET, Mohagaon</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2023 - 2027</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Currently pursuing Bachelor of Technology specializing in
+              Artificial Intelligence and Machine Learning. Focused on Python,
+              neural networks, and data-driven problem solving.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Higher Secondary Education (Class XII)</h4>
+                <h5>GBMM Jr. College</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Completed higher secondary education with a focus on Science
+              stream, building a strong foundation in mathematics and logical
+              reasoning.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Secondary School Certificate (Class X)</h4>
+                <h5>Little Angel's School</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Completed secondary schooling with strong academic performance,
+              developing early interest in technology and problem solving.
             </p>
           </div>
         </div>
